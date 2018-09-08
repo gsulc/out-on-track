@@ -1,2 +1,2 @@
 # out-on-track
-A utility for users to manage a resuorce that is simultaneously available to all users.
+A utility for users to manage a resuorce that is simultaneously available to all users. A utility for users to manage a resuorce that is simultaneously available to all users. Users notify their intent to participate and when they have stopped using the resource. This project is geared towards track-day enthusiasts to manage track usage in an ad-hock fashion when there is no schedule.
